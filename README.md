@@ -2,4 +2,11 @@ git test
 
 Inha University
 
-123456
+- git init
+- git status
+- git add README.md
+-git add .
+- git commit -m"day02 second"
+- git log
+- git checkout
+- git checkout -
